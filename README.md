@@ -1,3 +1,6 @@
+# Archived
+This repository has been archived: instead see https://github.com/SCAR/BiogeographicAtlas
+
 # AtlasRIS
 Biogeographic Atlas of the Southern Ocean citation information
 
